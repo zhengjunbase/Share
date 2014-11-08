@@ -75,10 +75,10 @@
 * www.zhihu.com
 * http://www.itmian4.com
 * www.neitui.me
-* http://bbs.byr.cn/#!board/Job
-* www.grepcode.com
-* www.codepad.org
-* https://github.com/Zhengjunbase 我的github啦
++ http://bbs.byr.cn/#!board/Job
++ www.grepcode.com
+- www.codepad.org
+- https://github.com/Zhengjunbase 我的github啦
 
 
 ## 我的一些看法
