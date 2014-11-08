@@ -76,6 +76,8 @@
 * http://www.itmian4.com
 * www.neitui.me
 * http://bbs.byr.cn/#!board/Job
+* www.grepcode.com
+* www.codepad.org
 * https://github.com/Zhengjunbase 我的github啦
 
 
